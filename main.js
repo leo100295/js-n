@@ -10,8 +10,8 @@ return lado**2;
 console.log(areaQuadrado(6));
 
 function vdd(){
-    let especify = prompt("Coloque o numero:");
-    let par = parseInt(especify);
+    let espe = prompt("Coloque o numero:");
+    let par = parseInt(espe);
     let resultado = par + 2;
     return resultado;
 }
