@@ -12,7 +12,7 @@ console.log(areaQuadrado(6));
 function vdd(){
     let espe = prompt("Coloque o numero:");
     let par = parseInt(espe);
-    let resultado = par + 2;
+    let resultado = par / 2;
     return resultado;
 }
 console.log(vdd());
