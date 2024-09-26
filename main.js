@@ -8,5 +8,5 @@ function areaQuadrado(lado){
 return lado**2;
 }
 console.log(areaQuadrado(6));
-
-let number = prompt(areaQuadrado)
+ 
+let number = prompt(console.log(areaQuadrado(6)));
