@@ -13,7 +13,7 @@ function vdd(){
     let especify = prompt("Coloque o numero:");
     let par = parseInt(especify);
     let resultado = par + 2;
-    return resultado
+    return resultado;
 }
 console.log(vdd());
 
