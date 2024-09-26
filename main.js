@@ -4,7 +4,7 @@ function soma(num1, num2){
 }
 console.log(soma(1,2));
 
-function area(lado){
+function areaQuadrado(lado){
     return lado**2;
 }
 console.log(areaQuadrado(6));
