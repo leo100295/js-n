@@ -16,5 +16,3 @@ function vdd(){
     return resultado;
 }
 console.log(vdd());
-
- 
