@@ -13,7 +13,7 @@ function vdd(){
     let espe = prompt("Coloque o primeiro numero:");
     let espe2 = prompt("Coloque o segundo numero: ")
     let espe3 = prompt("Coloque o terceiro numero: ")
-    let resultado = espe + espe2 + espe3 / 2;
+    let resultado = espe + espe2 + espe3 / 3;
     return resultado;
 }
 console.log(vdd());
