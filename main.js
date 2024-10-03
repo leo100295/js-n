@@ -23,7 +23,8 @@ let i =0;
  console.log(i);
  console.log(estados[i]);
 
-i=i+1;
+i++;
+
 
 
  }
