@@ -24,7 +24,11 @@ let i =0;
  console.log(estados[i]);
 
 i++;
-
+for (let j =0; estado length; j++) {
+    console.log(j);
+    console.log(estados[j]);
+    
+}
 
 
  }
